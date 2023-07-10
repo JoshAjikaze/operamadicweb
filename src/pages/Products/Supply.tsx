@@ -5,7 +5,7 @@ semper feugiat. Donec ac odio tempor orci dapibus ultrices in. Lorem ipsum dolor
 function Product() {
     return (
         <div className="min-h-[80vh] pt-[10vh]">
-            <SmallHeader pagetitle="Supply Chain Management" header="Overview" textContent={mytxt} textJustification='justify' />
+            <SmallHeader pagetitle="Supply Chain Management" header="Overview" textContent={mytxt} textJustify='justify' />
             <div className="container mx-auto">
                 <Tabs />
             </div>
