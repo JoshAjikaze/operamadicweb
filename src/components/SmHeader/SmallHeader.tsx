@@ -1,4 +1,4 @@
-function SmallHeader(props) {
+function SmallHeader({props}) {
     return (
         <div className="container mx-auto my-[5vh] space-y-10">
             <div className="flex items-center justify-between">
